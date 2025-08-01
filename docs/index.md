@@ -2,9 +2,9 @@
 pageType: home
 
 hero:
-  name: My Site
-  text: A cool website!
-  tagline: This is the tagline
+  name: miso-lynx
+  text:
+  tagline: Build iOS and Android apps with Haskell miso and LynxJS.org
   actions:
     - theme: brand
       text: Quick Start
