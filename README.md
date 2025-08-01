@@ -1,11 +1,14 @@
-# Rspress website
+:ramen: 🐈 miso-lynx-docs
+============================
 
-## Setup
+The [official website](https://lynxjs.haskell-miso.org) for the `miso-lynx` project.
+
+## Setup :crane:
 
 Install the dependencies:
 
 ```bash
-npm install
+bun install
 ```
 
 ## Get started
@@ -13,17 +16,17 @@ npm install
 Start the dev server:
 
 ```bash
-npm run dev
+bun run dev
 ```
 
 Build the website for production:
 
 ```bash
-npm run build
+bun run build
 ```
 
 Preview the production build locally:
 
 ```bash
-npm run preview
+bun run preview
 ```
