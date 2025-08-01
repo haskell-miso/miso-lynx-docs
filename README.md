@@ -1,4 +1,4 @@
-:ramen: 🐈 miso-lynx-docs
+:ramen: 🐈 📚 miso-lynx-docs
 ============================
 
 The [official website](https://lynxjs.haskell-miso.org) for the `miso-lynx` project.
