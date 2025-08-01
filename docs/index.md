@@ -11,7 +11,7 @@ hero:
       link: /guide/
     - theme: alt
       text: GitHub
-      link: https://github.com/web-infra-dev/rspress
+      link: https://github.com/haskell-miso/miso-lynx
   image:
     src: /rspress-icon.png
     alt: Logo
